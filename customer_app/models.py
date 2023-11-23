@@ -17,6 +17,7 @@ class Student(models.Model):
     address = models.TextField()
     zip = models.IntegerField(max_length=10)
     aadhar_card = models.ImageField(upload_to='stud/images',  blank=True, null=True)
+    print(aadhar_card.name)
     pan_card = models.ImageField(upload_to='stud/images',  blank=True, null=True)
     # role = models.CharField(max_length=10, choices=ROLE_CHOICES)
 
