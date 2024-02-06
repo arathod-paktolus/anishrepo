@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df9aa359-a872-4ba4-a05a-994cc09486c2" name="Changes" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/customer_app/templates/customer_app/customer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aadhaar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pan-Card.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/customer_app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_app/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/customer_app/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/customer_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_app/templates/customer_app/student.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/customer_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_management/a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_management/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/customer_management/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Aadhaar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Aadhaar_yE30s5i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Pan-Card.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Pan-Card_Z01LOuN.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_1_47tsXiS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_2_zlDRXaM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_3_0FtUvMi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_4_OZsNCQ2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_7_D1kBgZC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_8_g3XvYA1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/Screenshot_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/b1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/b1_K8uhHJQ.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/b2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/b2_Rz5P9ki.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car1_IOkXGgT.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car1_dcotJxP.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car3_FAAVVcO.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car3_Hxl0ATC.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car3_YABegY4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car3_vex3iV7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car3_xTtCM6v.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car4_726nNu4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car4_9cP6G2q.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car4_JkiKPhO.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car4_Xf9RGBq.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car4_eybIHTB.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car4_fWtbvNu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car4_sF3Uysg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car_28Hfok8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car_4KXh9xS.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car_XjL8sY6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/car_npnW5px.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/img11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/img12.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon2_GhFe4iw.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon2_u6RiZ6c.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon3_kojRool.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon3_pMjIQSM.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon_3Qto87e.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon_BEpmTJf.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon_GeVa6Tu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon_R7P6kIS.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon_YbpIyAQ.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon_d3DHD47.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/moon_oCnhx6R.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_1.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_2.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_2_Omj38qn.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_2_ZuXaNve.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_3_14zKLkP.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_3_TB9KPc9.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_5_17ezGA9.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_5_6x8He77.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_6_Cnumyyt.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_6_hZG3DDy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_6_nsygPzf.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_6_wLHFSnp.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_7_RpgMZQI.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_7_lg2i1fY.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/pic_8_lbmjDo9.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/sun.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/sun2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/sun2_dJHIC7g.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/sun2_iFAV1al.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/sun_BYlyT8b.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/stud/images/sun_fHVm7xM.jpeg" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_app/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/customer_app/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/customer_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/customer_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer_management/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/customer_management/a.py" afterDir="false" />
+>>>>>>> 10af1c85a55893a9a6636293ffd77f68ba48c300
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+<<<<<<< HEAD
+        <option value="HTML File" />
+=======
+>>>>>>> 10af1c85a55893a9a6636293ffd77f68ba48c300
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Xptq6P49xUXn6xZy4E8We85nDT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Django_Code",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.a">
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Registration_form/customer_management&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RunManager">
+>>>>>>> 10af1c85a55893a9a6636293ffd77f68ba48c300
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="customer_management" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9 (myenv)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/customer_management" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/customer_management/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="customer_management" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/customer_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/customer_app/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="customer_management" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/customer_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/customer_app/views.py" />
+      <option name="PARAMETERS" value="$AffectedModuleNames$" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.views" />
+      <item itemvalue="Python.a" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.a" />
+        <item itemvalue="Python.test" />
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.a" />
+>>>>>>> 10af1c85a55893a9a6636293ffd77f68ba48c300
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9aa359-a872-4ba4-a05a-994cc09486c2" name="Changes" comment="" />
+      <created>1699338037394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699338037394</updated>
+    </task>
+    <servers />
+  </component>
+<<<<<<< HEAD
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/concurrent/futures/thread.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+=======
+>>>>>>> 10af1c85a55893a9a6636293ffd77f68ba48c300
+</project>
